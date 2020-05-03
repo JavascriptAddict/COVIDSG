@@ -135,7 +135,7 @@ main{
     }
   }
 
-  @media only screen and (max-width: 350px) {
+  @media only screen and (max-width: 450px) {
     #heading{
       display: none;
     }
@@ -144,7 +144,7 @@ main{
       height: 70%
     }
   }
-  @media only screen and (max-height: 450px) {
+  @media only screen and (max-height: 500px) {
     #heading{
       display: none;
     }
