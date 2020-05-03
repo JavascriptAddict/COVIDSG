@@ -143,6 +143,9 @@ main{
       width: 70%;
       height: 70%
     }
+   #short_desc{
+    display: none;
+   }
   }
   @media only screen and (max-height: 450px) {
     #heading{
@@ -152,6 +155,9 @@ main{
       width: 70%;
       height: 70%
     }
+    #short_desc{
+    display: none;
+   }
   }
 
 
