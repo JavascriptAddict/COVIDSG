@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to COVIDSG
+COVIDSG is an Android application developed to provide information and monitoring of the COVID-19 situation globally. The app includes features such as statistical data and latest news globally, risk assessment tool, general information, and a search function. The aim of the app is to provide insight into the situation in an "All-In-One" solution. The app is currently only available for Android and can be downloaded [here](https://covidsg.app "COVIDSG | Mobile App")
 
-You can use the [editor on GitHub](https://github.com/JavascriptAddict/COVIDSG/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Development
+The app was developed by integrating various third-party APIs for the statistical data and usage of CNA's news feed to provide the latest information. General information was obtained from crowd-sourced information in the [coronasafe](https://github.com/coronasafe/coronasafe.in "coronnasafe") repository provided by Github contributers. Lastly, the risk assessment tool was implemented using [Infermedica's](https://infermedica.com/covid19 "Infermedica COVID-19 Risk Assessment Tool").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Authors
+Developer: Mario Lim
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JavascriptAddict/COVIDSG/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Credits
+Special thanks to the following for providing open-source tools and services for public use:
+⋅⋅* [NovelCOVID API](https://corona.lmao.ninja/ "NovelCOVID API")
+⋅⋅* [CNA](https://www.channelnewsasia.com/ "CNA")
+⋅⋅* [coronasafe](https://github.com/coronasafe/coronasafe.in "coronnasafe")
+⋅⋅* [Infermedica](https://infermedica.com/covid19 "Infermedica COVID-19 Risk Assessment Tool")
