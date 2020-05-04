@@ -1,6 +1,6 @@
 ## Welcome to COVIDSG
 Inline-style: 
-![alt text](https://github.com/JavascriptAddict/COVIDSG/assets/logo "COVIDSG")
+![alt text](https://github.com/JavascriptAddict/COVIDSG/assets/logo.png "COVIDSG")
 COVIDSG is an Android application developed to provide information and monitoring of the COVID-19 situation globally. The app includes features such as statistical data and latest news globally, risk assessment tool, general information, and a search function. The aim of the app is to provide insight into the situation in an "All-In-One" solution. The app is currently only available for Android and can be downloaded [here](https://covidsg.app "COVIDSG | Mobile App")
 
 ### Development
