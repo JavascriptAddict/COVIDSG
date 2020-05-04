@@ -13,3 +13,6 @@ Special thanks to the following for providing open-source tools and services for
 * [CNA](https://www.channelnewsasia.com/ "CNA")
 * [coronasafe](https://github.com/coronasafe/coronasafe.in "coronnasafe")
 * [Infermedica](https://infermedica.com/covid19 "Infermedica COVID-19 Risk Assessment Tool")
+
+### Contact
+For enquiries, you may drop an email to covidsg.app@gmail.com
