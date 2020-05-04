@@ -9,7 +9,7 @@ Developer: Mario Lim
 
 ### Credits
 Special thanks to the following for providing open-source tools and services for public use:
-⋅⋅* [NovelCOVID API](https://corona.lmao.ninja/ "NovelCOVID API")
-⋅⋅* [CNA](https://www.channelnewsasia.com/ "CNA")
-⋅⋅* [coronasafe](https://github.com/coronasafe/coronasafe.in "coronnasafe")
-⋅⋅* [Infermedica](https://infermedica.com/covid19 "Infermedica COVID-19 Risk Assessment Tool")
+* [NovelCOVID API](https://corona.lmao.ninja/ "NovelCOVID API")
+* [CNA](https://www.channelnewsasia.com/ "CNA")
+* [coronasafe](https://github.com/coronasafe/coronasafe.in "coronnasafe")
+* [Infermedica](https://infermedica.com/covid19 "Infermedica COVID-19 Risk Assessment Tool")
