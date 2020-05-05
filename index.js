@@ -1,9 +1,6 @@
 function getAPK(){
-  ga('send', {
-  hitType: 'event',
-  eventCategory: 'App',
-  eventAction: 'click',
-  eventLabel: 'APK Download'
-});
-  window.location.href = 'covidsg.apk';
+   ga('send', 'event', 'APK Download', 'download', {
+    hitCallback: function() {
+      window.location.href = 'covidsg.apk';
+    }
 }
