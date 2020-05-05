@@ -3,4 +3,5 @@ function getAPK(){
     hitCallback: function() {
       window.location.href = 'covidsg.apk';
     }
+      );
 }
