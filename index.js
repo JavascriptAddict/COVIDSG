@@ -6,18 +6,19 @@ var clientId = ga.getAll()[0].get('clientId');
 
 function getAPK(){
 
- ga('send', 'event', {
+  ga('send', 'event', {
    'eventCategory': 'APK Download', //required
-   'eventAction': 'download', //required
+   'eventAction': 'click', //required
    'eventLabel': 'APK Download',
    'eventValue': 1,
    'hitCallback': function() {
        console.log('Sent!!');
        window.location.href = 'covidsg.apk'; 
-      //callback function
     },
    'hitCallbackFail' : function () {
       console.log("Unable to send Google Analytics data");
       //callback function
    }
+});
+  
 }
