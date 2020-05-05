@@ -1,7 +1,11 @@
 function getAPK(){
- ga('send', 'event', 'APK Download', 'download', {
-    hitCallback: function() {
-      window.location.href = 'covidsg.apk';
-    }
-  });   
+
+window.location.href = 'covidsg.apk';
+ga('send', 'event', {
+  eventCategory: 'APK Download',
+  eventAction: 'click',
+  eventLabel: 'download',
+  transport: 'beacon'
+});
+ 
 }
