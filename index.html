@@ -275,7 +275,8 @@
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
                         <a type="button" class="btn text-white" style="background-color: mediumpurple;"
-                            data-dismiss="modal" onclick="getAPK()">I Agree</a>
+                            data-dismiss="modal" onclick="ga('send', 'event', 'APK', 'download', 'APK Download');
+;getAPK()">I Agree</a>
                     </div>
                 </div>
             </div>
